@@ -8,6 +8,7 @@ The goal of this repo is to learn, experiment, and apply machine learning concep
 - Model training and prediction
 - Basic evaluation of models
 - Hands-on experiments with different ML algorithms
+- Model Deployment
 
 ## 🔧 Technologies Used
 - Python
@@ -15,6 +16,8 @@ The goal of this repo is to learn, experiment, and apply machine learning concep
 - Pandas
 - Scikit-learn
 - Matplotlib / Seaborn (for visualization)
+- Tkinter
+- joblib , pickle
 
 ## 🚀 How to Run
 1. Clone the repository  
